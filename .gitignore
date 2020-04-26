@@ -1,2 +1,7 @@
-*.log
+*.log 
 settings.py
+*.DS_Store
+*.gitignore
+*.png
+*.pyc
+__pycache__/
