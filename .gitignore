@@ -1,7 +1,9 @@
 *.log 
 settings.py
 *.DS_Store
-*.gitignore
+.gitignore
 *.png
 *.pyc
 __pycache__/
+env/
+.vscode/
