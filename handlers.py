@@ -27,7 +27,7 @@ def talk_to_me(bot, update, user_data):
                                                       update.message.text)
     logging.info("User: %s, Chat id: %s, Message: %s", user['username'],
                  update.message.chat.id, update.message.text)
-    update.message.reply_text(user_text, reply_markup=get_keyboard())
+    update.message.reply_text(user_text, reply_markup=get_keyboard()
 
 
 def send_cat_picture(bot, update, user_data):
@@ -154,3 +154,5 @@ def set_alarm(bot, update, args, job_queue):
 @mq.queuedmessage
 def alarm(bot, job):
     bot.sendMessage(chat_id=job.context, text="Сработал будильник!")
+
+    
