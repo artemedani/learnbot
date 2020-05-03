@@ -6,3 +6,202 @@
 2020-04-27 20:08:35,296 - INFO - Бот запускается
 2020-04-27 20:08:41,062 - INFO - Received signal 2 (SIGINT), stopping...
 2020-04-27 20:08:41,321 - WARNING - Exiting immediately!
+2020-05-01 11:13:01,180 - INFO - Бот запускается
+2020-05-01 11:25:26,495 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 11:25:26,756 - WARNING - Exiting immediately!
+2020-05-01 11:25:29,937 - INFO - Бот запускается
+2020-05-01 11:53:28,516 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 11:53:28,814 - WARNING - Exiting immediately!
+2020-05-01 11:53:31,986 - INFO - Бот запускается
+2020-05-01 11:54:11,723 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 11:54:12,012 - WARNING - Exiting immediately!
+2020-05-01 11:54:15,252 - INFO - Бот запускается
+2020-05-01 11:54:19,752 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 12:20:03,009 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 12:20:03,307 - WARNING - Exiting immediately!
+2020-05-01 15:16:50,941 - INFO - Бот запускается
+2020-05-01 15:19:21,116 - INFO - Бот запускается
+2020-05-01 15:19:37,350 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_get_name() got an unexpected keyword argument 'user_data'
+2020-05-01 15:19:51,265 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_get_name() got an unexpected keyword argument 'user_data'
+2020-05-01 15:19:55,163 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_get_name() got an unexpected keyword argument 'user_data'
+2020-05-01 15:24:30,628 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 15:24:30,867 - WARNING - Exiting immediately!
+2020-05-01 15:24:33,284 - INFO - Бот запускается
+2020-05-01 15:24:38,088 - INFO - User: artemedani, Chat id: 912647867, Message: fv
+2020-05-01 15:24:54,509 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_get_name() got an unexpected keyword argument 'user_data'
+2020-05-01 15:25:41,686 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 15:25:41,934 - WARNING - Exiting immediately!
+2020-05-01 15:25:44,211 - INFO - Бот запускается
+2020-05-01 15:26:24,411 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_get_name() got an unexpected keyword argument 'user_data'
+2020-05-01 15:36:38,125 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 15:36:38,586 - WARNING - Exiting immediately!
+2020-05-01 15:36:41,394 - INFO - Бот запускается
+2020-05-01 15:36:56,784 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/qa/Documents/lesson1/megabot/handlers.py", line 69, in anketa_get_name
+    user_name = update.messge.text
+AttributeError: 'Update' object has no attribute 'messge'
+2020-05-01 15:37:05,902 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/qa/Documents/lesson1/megabot/handlers.py", line 69, in anketa_get_name
+    user_name = update.messge.text
+AttributeError: 'Update' object has no attribute 'messge'
+2020-05-01 15:38:14,802 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 15:38:15,080 - WARNING - Exiting immediately!
+2020-05-01 15:38:18,474 - INFO - Бот запускается
+2020-05-01 15:39:40,742 - INFO - User: artemedani, Chat id: 912647867, Message: 2
+2020-05-01 15:39:43,945 - INFO - User: artemedani, Chat id: 912647867, Message: ывыв
+2020-05-01 15:39:46,036 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 15:39:48,082 - INFO - User: artemedani, Chat id: 912647867, Message: аипаы
+2020-05-01 15:39:50,075 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 15:39:55,343 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 15:40:03,359 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 15:40:03,614 - WARNING - Exiting immediately!
+2020-05-01 15:45:58,836 - INFO - Бот запускается
+2020-05-01 15:46:12,401 - INFO - User: artemedani, Chat id: 912647867, Message: 5
+2020-05-01 15:46:19,838 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 16:06:31,766 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 16:06:32,061 - WARNING - Exiting immediately!
+2020-05-01 16:12:34,246 - INFO - Бот запускается
+2020-05-01 16:13:00,431 - INFO - User: artemedani, Chat id: 912647867, Message: sdgdfg
+2020-05-01 16:13:06,217 - INFO - User: artemedani, Chat id: 912647867, Message: /cancel
+2020-05-01 16:13:08,378 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 16:13:19,191 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 16:13:20,767 - WARNING - Exiting immediately!
+2020-05-01 17:17:03,609 - INFO - Бот запускается
+2020-05-01 17:17:14,882 - INFO - User: artemedani, Chat id: 912647867, Message: /cancel
+2020-05-01 17:17:17,578 - INFO - User: artemedani, Chat id: 912647867, Message: Заполнить анкету
+2020-05-01 17:17:21,852 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 17:17:22,139 - WARNING - Exiting immediately!
+2020-05-01 17:17:24,069 - INFO - Бот запускается
+2020-05-01 17:17:37,221 - INFO - User: artemedani, Chat id: 912647867, Message: fdvdfv
+2020-05-01 17:17:45,033 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 17:17:45,283 - WARNING - Exiting immediately!
+2020-05-01 17:19:50,864 - INFO - Бот запускается
+2020-05-01 17:26:16,603 - INFO - Бот запускается
+2020-05-01 17:26:36,955 - INFO - User: artemedani, Chat id: 912647867, Message: /skip
+2020-05-01 17:26:40,439 - INFO - User: artemedani, Chat id: 912647867, Message: /skip
+2020-05-01 17:35:36,117 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 17:35:36,315 - WARNING - Exiting immediately!
+2020-05-01 18:30:11,658 - INFO - Бот запускается
+2020-05-01 18:58:16,954 - INFO - Бот запускается
+2020-05-01 18:59:46,933 - INFO - Бот запускается
+2020-05-01 19:00:42,677 - INFO - Бот запускается
+2020-05-01 19:01:27,405 - INFO - Бот запускается
+2020-05-01 19:01:30,875 - INFO - User: artemedani, Chat id: 912647867, Message: Отправить фото
+2020-05-01 19:01:45,180 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_comment() got an unexpected keyword argument 'user_data'
+2020-05-01 19:01:54,109 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_comment() got an unexpected keyword argument 'user_data'
+2020-05-01 19:02:09,551 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 19:02:12,485 - WARNING - Exiting immediately!
+2020-05-01 19:03:38,399 - INFO - Бот запускается
+2020-05-01 19:03:42,276 - INFO - User: artemedani, Chat id: 912647867, Message: sf
+2020-05-01 19:03:55,500 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+TypeError: anketa_comment() got an unexpected keyword argument 'user_data'
+2020-05-01 19:05:46,572 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 19:05:46,880 - WARNING - Exiting immediately!
+2020-05-01 19:05:49,947 - INFO - Бот запускается
+2020-05-01 19:05:53,155 - INFO - User: artemedani, Chat id: 912647867, Message: sf
+2020-05-01 19:05:54,826 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/qa/Documents/lesson1/megabot/handlers.py", line 65, in anketa_start
+    user = get_or_create_user(db, update.effective_user, update.message)
+NameError: name 'get_or_create_user' is not defined
+2020-05-01 19:05:59,904 - INFO - User: artemedani, Chat id: 912647867, Message: sfv
+2020-05-01 19:06:01,996 - ERROR - No error handlers are registered, logging exception.
+Traceback (most recent call last):
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/dispatcher.py", line 343, in process_update
+    handler.handle_update(update, self, check, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/conversationhandler.py", line 465, in handle_update
+    new_state = handler.handle_update(update, dispatcher, check_result, context)
+  File "/Users/qa/Documents/lesson1/megabot/env/lib/python3.8/site-packages/telegram/ext/handler.py", line 120, in handle_update
+    return self.callback(dispatcher.bot, update, **optional_args)
+  File "/Users/qa/Documents/lesson1/megabot/handlers.py", line 65, in anketa_start
+    user = get_or_create_user(db, update.effective_user, update.message)
+NameError: name 'get_or_create_user' is not defined
+2020-05-01 19:12:50,860 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-01 19:12:51,129 - WARNING - Exiting immediately!
+2020-05-02 14:26:30,440 - INFO - Бот запускается
+2020-05-02 20:09:34,022 - INFO - User: artemedani, Chat id: 912647867, Message: dfgh
+2020-05-03 18:23:55,390 - INFO - Received signal 2 (SIGINT), stopping...
+2020-05-03 18:23:55,680 - WARNING - Exiting immediately!

@@ -7,3 +7,4 @@ settings.py
 __pycache__/
 env/
 .vscode/
+dowloads/
